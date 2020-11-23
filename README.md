@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello, I'm Pedro Welbert! 👋
+#### I'm a web designer, web and mobile developer.
 
-<!--
-**PedroWelbert/PedroWelbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 💼 Co-founder of [Valkyriatech](https://github.com/Valkyria-tech)
 
-Here are some ideas to get you started:
+- 🇧🇷  Born in Ribeirão Preto, Brazil
+- 🔭 I’m currently working on **Randora** (Movie Recommendation Algorithm)
+- 🌱 I’m currently learning **Dart/Flutter**
+- 💬 My Skills <code>HTML5</code> <code>CSS3</code> <code>JavaScript(ES6, JQuery)</code> <code>PHP7</code> <code>SQL</code> <code>Flutter</code>
+- 😄 Other Skills <code>UI/UX</code> <code>Photoshop</code> <code>CorelDraw</code> <code>Gimp</code> <code>Inskcape</code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 My last projects
+
+- [EvidenciaMed](http://evidenciamed.com.br)
+- [Applied Research Toxicology](https://appliedrestoxicol.com)
+- [Plasticos sem Limites](https://plasticossemlimites.com.br)
+ 
+
+
