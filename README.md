@@ -1,7 +1,7 @@
 ### Hello, I'm Pedro Welbert! 👋
 #### I'm a web designer, web and mobile developer.
 
-#### 💼 Co-founder of [Valkyriatech](https://github.com/Valkyria-tech)
+#### 💼 Co-founder of [Valkyriatech](https://github.com/Valkyriatech)
 
 - 🇧🇷  Born in Ribeirão Preto, Brazil
 - 🔭 I’m currently working on **Randora** (Movie Recommendation Algorithm)
