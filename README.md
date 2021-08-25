@@ -14,6 +14,9 @@
 - [Itas Coworking](https://itascoworking.com/)
 - [Applied Research Toxicology](https://appliedrestoxicol.com)
 - [Plasticos sem Limites](https://plasticossemlimites.com.br)
+
+#### ⭐ The special one
+- [Valkyria Shield](https://shield.valkyriatech.com.br/)
  
 
 
