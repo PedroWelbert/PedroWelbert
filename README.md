@@ -14,6 +14,7 @@
 - [Choose Brasil](https://choosebrasil.com/)
 - [Dr Paulo Martins](https://drpaulomartinsneo.com.br/)
 - [Assistência Farmaceutica](https://assistencia-farmaceutica-ab.conasems.org.br/)
+- [Regionalização](https://regionalizacao-proadisus.com.br/)
 - [ESG COGNA](https://www.esgcogna.com.br/)
 - [Itas Coworking](https://itascoworking.com/)
 - [Evidência Med](https://evidenciamed.com.br/)
