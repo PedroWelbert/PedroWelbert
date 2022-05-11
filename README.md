@@ -11,7 +11,12 @@
 
 #### 🚀 My last projects
 
+- [Choose Brasil](https://choosebrasil.com/)
+- [Dr Paulo Martins](https://drpaulomartinsneo.com.br/)
+- [Assistência Farmaceutica](https://assistencia-farmaceutica-ab.conasems.org.br/)
+- [ESG COGNA](https://www.esgcogna.com.br/)
 - [Itas Coworking](https://itascoworking.com/)
+- [Evidência Med](https://evidenciamed.com.br/)
 - [Applied Research Toxicology](https://appliedrestoxicol.com)
 - [Plasticos sem Limites](https://plasticossemlimites.com.br)
 
